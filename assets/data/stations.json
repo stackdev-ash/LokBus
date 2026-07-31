@@ -1,0 +1,22 @@
+{
+  "stations": [
+    { "code": "ASBT001", "name": "Amar Shaheed Sukhdev Interstate Bus Terminal", "lat": 30.9010, "lng": 75.8573 },
+    { "code": "LCBS002", "name": "Ludhiana City Bus Stand", "lat": 30.9050, "lng": 75.8520 },
+    { "code": "CTC003", "name": "Clock Tower Chowk", "lat": 30.9010, "lng": 75.8463 },
+    { "code": "SPC004", "name": "Sherpur Chowk", "lat": 30.9180, "lng": 75.8423 },
+    { "code": "PAU005", "name": "PAU Gate", "lat": 30.9030, "lng": 75.8047 },
+    { "code": "GM006", "name": "Ghumar Mandi", "lat": 30.9080, "lng": 75.8542 },
+    { "code": "SC007", "name": "Samrala Chowk", "lat": 30.8350, "lng": 75.9120 },
+    { "code": "KBS008", "name": "Khanna Bus Stand", "lat": 30.7058, "lng": 76.2220 },
+    { "code": "JBS009", "name": "Jagraon Bus Stand", "lat": 30.7867, "lng": 75.4737 },
+    { "code": "DBS010", "name": "Doraha Bus Stand", "lat": 30.8020, "lng": 76.0220 },
+    { "code": "RBS011", "name": "Raikot Bus Stand", "lat": 30.6520, "lng": 75.5970 },
+    { "code": "PBS012", "name": "Payal Bus Stand", "lat": 30.9030, "lng": 75.5665 },
+    { "code": "BRS013", "name": "BRS Nagar", "lat": 30.8820, "lng": 75.8380 },
+    { "code": "DGR014", "name": "Dugri Phase 1", "lat": 30.8750, "lng": 75.8680 },
+    { "code": "MTE015", "name": "Model Town Extension", "lat": 30.9120, "lng": 75.8420 },
+    { "code": "NS62001", "name": "Noida Sector-62 Bus Station", "lat": 28.6339, "lng": 77.3728 },
+    { "code": "AVB002", "name": "Anand Vihar ISBT", "lat": 28.6455, "lng": 77.3163 },
+    { "code": "AGB003", "name": "ABESIT Ghaziabad Bus Stop", "lat": 28.6570, "lng": 77.4464 }
+  ]
+}
