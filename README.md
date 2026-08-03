@@ -51,7 +51,7 @@ The project aims to improve the public transportation experience by providing pa
 |---------|------|
 | [Ashish Sharma](https://github.com/stackdev-ash) | Backend Development • System Architecture |
 | [Utkarsh Gupta](https://github.com/Utk4rxh) | Flutter Development |
-| [Pakhi Tyagi](https://github.com/username) | UI/UX Design |
+| [Pakhi Tyagi](https://github.com/16pakhisheshank1109) | UI/UX Design |
 | [Naman Singhal](https://github.com/namansinghal12) | Research, Documentation & Testing |
 
 ---
